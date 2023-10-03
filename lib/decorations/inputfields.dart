@@ -20,7 +20,7 @@ var inputdecorusernmae = InputDecoration(
 
 var inputdecorpassword = InputDecoration(
   labelText: "Password",
-  hintText: "Password",
+  hintText: "PassKode",
   fillColor: const Color.fromARGB(255, 98, 6, 246),
   focusColor: const Color.fromARGB(255, 98, 6, 246),
   enabledBorder: OutlineInputBorder(
